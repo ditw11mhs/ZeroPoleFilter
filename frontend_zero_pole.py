@@ -3,9 +3,6 @@ import numpy as np
 import plotly.express as px
 import plotly.graph_objects as go
 from pandas import DataFrame as df
-from icecream import install
-
-install()
 from backend_zero_pole import ZeroPoleFilter
 
 
